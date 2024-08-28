@@ -1,4 +1,4 @@
-# Smart-Card-Based-Auto-Bus-Ticketing-System
+# Smart-Card-Based-Bus-Ticketing-System
 ## Overview
 This project is designed to automate the bus ticketing process using smart card technology. It aims to provide a seamless, cashless, and efficient fare collection system for public transportation.
 
